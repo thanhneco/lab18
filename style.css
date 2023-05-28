@@ -1,0 +1,37 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(images/3.png);
+  height: 700px;
+  background-position: center;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(images/2.png);
+  height: 700px;
+  background-position: center;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(images/1.jpg);
+  height: 700px;
+
+  background-position: center;
+}
